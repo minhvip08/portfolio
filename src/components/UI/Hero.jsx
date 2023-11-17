@@ -22,7 +22,7 @@ const Hero = () => {
             <h1
               data-aos="fade-up"
               data-aos-duration="1500"
-              className="text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[35px]
+              className="text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[50px] 
               sm:leading[46px] mt-5"
             >
               I'm Nguyen Si Minh <br />
